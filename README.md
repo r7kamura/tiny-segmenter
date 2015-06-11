@@ -1,2 +1,3 @@
 # tiny-segmenter
-This is a port of http://chasen.org/~taku/software/TinySegmenter/ for bower use.
+A compact word-devider,
+imported from [TinySegmenter](http://chasen.org/~taku/software/TinySegmenter/) for bower use.

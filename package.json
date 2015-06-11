@@ -1,0 +1,22 @@
+{
+  "name": "tiny-segmenter",
+  "version": "0.0.1",
+  "description": "A compact word-devider",
+  "main": "src/tiny-segmenter.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:r7kamura/tiny-segmenter.git"
+  },
+  "author": "Ryo Nakamura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r7kamura/tiny-segmenter/issues"
+  },
+  "homepage": "https://github.com/r7kamura/tiny-segmenter",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
